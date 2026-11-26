@@ -1,0 +1,8 @@
+{
+  "name": "escalacao-ribeira-bote",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Escalação animada do Sport Clube Ribeira Bote",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
